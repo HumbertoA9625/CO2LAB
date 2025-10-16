@@ -39,7 +39,6 @@ Run the script exampleCO2inj.m
 Download a matlab module for Simulation on section 6 (DONT REMEMBER WHICH, AMGCL*)
 
 The first time you run the model, MATLAB will prompt you to download and set up AMGCL and Boost.
-Simply click “OK” — MRST handles this automatically.
 NECCESARYY
 
 ----------------------------------------------------------------------------------------
