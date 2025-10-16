@@ -3,7 +3,7 @@ CO₂ Injection Simulation using MRST
 This repository contains a simplified workflow for simulating CO₂ injection using the Matlab Reservoir Simulation Toolbox (MRST).
 The setup is inspired by the FluidFlower experimental configuration and demonstrates how to go from an experimental setup to a computational mesh and a full black-oil simulation.
 
-📂 Repository Structure
+Repository Structure
 
 experiment_to_mesh/
 Contains figures illustrating how to transition from the experimental setup to the computational grid. These examples are derived directly from the FluidFlower medium.
@@ -12,9 +12,10 @@ mrstExample/
 Includes the main MATLAB scripts and input files for the simulation.
 The primary script is exampleCO2inj, which is thoroughly commented and also available as a .mlx file for better visualization within MATLAB.
 
-⚠️ The mesh generation code is not included in this repository.
 
-🧠 About MRST Core Module
+The mesh generation code is not included in this repository.
+
+About MRST Core Module
 
 The MRST core module provides essential data structures and routines for reservoir modeling, including:
 
